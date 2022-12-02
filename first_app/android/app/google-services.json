@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "491824049970",
+    "project_id": "android-studio-cea6b",
+    "storage_bucket": "android-studio-cea6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491824049970:android:43867d864e03b82b95b12b",
+        "android_client_info": {
+          "package_name": "com.example.first_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "491824049970-jnj37lil7562spnr16kb3nhc1am56214.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6Uwbqb6AKmcZrqiG1PqliaqYoOd2Sag4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "491824049970-jnj37lil7562spnr16kb3nhc1am56214.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
